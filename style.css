@@ -1,6 +1,6 @@
 *{
   margin: 10px;
-  padding: 0px;
+  padding: 0.1px;
 }
 .traffic{
   height: 400px;
@@ -93,7 +93,7 @@
   height: 100px;
   width: 100px;
   background-color: yellow;
-  border-radius: 50%;
+  border-radius: 40%;
   cursor: pointer;
 }
 .gree{
